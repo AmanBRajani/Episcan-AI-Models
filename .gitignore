@@ -1,0 +1,12 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*.so
+*.pt
+*.pth
+env/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.log
